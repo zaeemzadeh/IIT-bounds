@@ -1,0 +1,13 @@
+axes.titlesize : 12
+axes.labelsize : 12
+xtick.labelsize : 12
+ytick.labelsize : 12
+legend.fontsize: 12
+lines.linewidth : 3
+lines.markersize : 7
+axes.grid : True
+mathtext.fontset: cm
+legend.fancybox: True
+figure.figsize: 5, 3.125
+savefig.bbox: tight
+savefig.dpi: 200
