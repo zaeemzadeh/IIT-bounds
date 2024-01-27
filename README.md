@@ -1,5 +1,5 @@
 # Upper bounds for integrated information
-Implementation of the bounds and calculations discussed in:
+Implementation of the bounds and calculations presented in:
 
 Zaeemzadeh, Alireza, and Giulio Tononi. "Upper bounds for integrated information." (2023). [link](https://arxiv.org/pdf/2305.09826.pdf)
 
